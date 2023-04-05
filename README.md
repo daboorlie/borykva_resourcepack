@@ -12,7 +12,7 @@
 4. Активувати ресурспак в грі
 
 ## Як встановити ресурспак релізний?
-1. [Перейти на вкладку з релізами](https://github.com/ElvirGv2/borykva_resourcepack/tags/)
+1. [Перейти на вкладку з релізами](https://github.com/ElvirGv2/borykva_resourcepack/releases/)
 2. Скачати останній реліз
 3. Закинути архів в папку .minecraft/resourcepack
 4. Активувати ресурспак в грі
