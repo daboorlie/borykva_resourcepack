@@ -1,0 +1,45 @@
+{
+	"credit": "Made by Elvir_G",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/cosmetics/sharfik",
+		"1": "custom/cosmetics/sharfik_anim",
+		"particle": "custom/cosmetics/sharfik"
+	},
+	"elements": [
+		{
+			"from": [4, 0, -1],
+			"to": [18, 5, 13],
+			"faces": {
+				"north": {"uv": [7, 0, 14, 2.5], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [7, 2.5, 14, 5], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [7, 5, 14, 7.5], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [7, 7.5, 14, 10], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [7, 7, 0, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [7, 7, 0, 14], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-16, -3, 16],
+			"to": [0, 10, 16],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [8, 6.5, 0, 13], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 6.5], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [0, 6.5, 8, 13], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 6.5], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [8, 0, 0, 0], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [8, 0, 0, 0], "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [-173.25, -7.5, 180],
+			"translation": [2.5, 2.5, 0]
+		},
+		"head": {
+			"translation": [-3, 0.75, 2]
+		}
+	}
+}

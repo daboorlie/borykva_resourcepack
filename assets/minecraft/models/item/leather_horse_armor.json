@@ -1,0 +1,11 @@
+{"overrides":
+[
+{"model":"custom/ui/paint_button","predicate":{"custom_model_data":8005}},
+{"model":"custom/cosmetics/backpack","predicate":{"custom_model_data":10034}},
+{"model":"custom/cosmetics/backpack2","predicate":{"custom_model_data":10035}},
+{"model":"custom/cosmetics/offhand/case_white","predicate":{"custom_model_data":10036}},
+{"model":"custom/cosmetics/back/war_banner","predicate":{"custom_model_data":10037}},
+{"model":"custom/cosmetics/hats/sharfik","predicate":{"custom_model_data":11092}},
+{"model":"custom/cosmetics/red_mask","predicate":{"custom_model_data":11101}},
+{"model":"item/paper","predicate":{"custom_model_data":12000}}
+],"parent":"item/handheld_rod","textures":{"layer0":"item/leather_horse_armor"}}

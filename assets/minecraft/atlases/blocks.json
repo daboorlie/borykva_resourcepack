@@ -1,0 +1,628 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/absinthe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/advocaat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/apple_liquor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/apple_mead"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/glass_beer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/beer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_cap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_liquid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_glass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_cap_c"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_liquid_c"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_paper_c"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_glass_c"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_cap_q"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_liquid_q"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_paper_q"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bonaqua_cola_glass_q"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/borukva_juice"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/cider_bottle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/coffee"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/darkbeer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/eggnog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/gin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/gorilka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/gr_absinthe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/gus_mead"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/gorilka_pbi"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/etiketka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/bottle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/jagermeister"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/jar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/kuban_bottle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/kuban_etiketka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/mead"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/mtze"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/mushroom_gorilka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/potato_soup"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/1_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/rbob"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/red_hog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/red_hog_co"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/rum"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/shein"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/skooma"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/sud"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/tequila"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/wheatbeer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/whiskey"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/brewerly/wine"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/back_pack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/back_pack2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/banderivka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/bunny"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cape1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cape2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cape3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cape_barell"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/pitsa_cape"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cape_ver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cowboy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/crowm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/crown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/faraday"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/garland"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/guitar3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/guitar2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/guitar1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/hecker"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/nuklearhia2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/nuklearhia2_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/janko"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/txt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/new_year_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/nuklearhia1_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/texture3_3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/pitsa_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/red_an1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/red_an2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/royal_scepter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/texture_0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/texture_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/skyrim"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/small_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/lulka"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/smoke"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/tech_claw"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/quiver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/test_color"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/stick_banner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/color"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/ahegao"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/allay_f"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/alpha"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/axolotl_y"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/bee"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/bee_wings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/better_pirate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/chest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/chiken"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cilinder"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/clown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/clown_afro"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cold_frog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/covid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/cowboy_new"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/fletcher"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/fox_sleep"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/gas_mask"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/gas_mask_low"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/ghast_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/hat_ver"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/horn_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/horse_skull"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/ichogo_mask"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/jid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/koshoviy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/librarian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/marilla_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/miner_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/brownmushroomcap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/aquamushroomcap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/redmushroomcap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/naruto_leav"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/naruto_head1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/naruto_head2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/three"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/nuklearhia"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/odb1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/odb2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/old_dragon_skull"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/phantom_hide"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/pillager_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/plague_cleric"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/plague_doctor"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/protogen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/rastacap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/rome_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/saddle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/sharfik"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/sharfik_anim"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/tor_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/dmitro2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/warm_frog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/case_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cosmetics/hook"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/arrow_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/arrow_next"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/back_button"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/back_button_dim"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/banned_players_on"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/pixel_split"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/next_button"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/next_button_dim"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ui/paint_button"
+        }
+    ]
+}

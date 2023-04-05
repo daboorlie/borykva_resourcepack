@@ -1,0 +1,65 @@
+{
+	"credit": "Made by Elvir_Gv2",
+	"textures": {
+		"0": "custom/brewerly/jagermeister",
+		"particle": "custom/brewerly/jagermeister"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 7.5],
+			"to": [10, 6, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [0, 6, 3, 12], "texture": "#0"},
+				"south": {"uv": [4, 0, 0, 6], "texture": "#0"},
+				"west": {"uv": [3, 6, 6, 12], "texture": "#0"},
+				"up": {"uv": [10, 9, 6, 6], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.25, 5, 7.75],
+			"to": [8.75, 8, 9.25],
+			"faces": {
+				"north": {"uv": [8, 3, 9.5, 6], "texture": "#0"},
+				"east": {"uv": [6, 9, 7.5, 12], "texture": "#0"},
+				"south": {"uv": [8, 9, 9.5, 12], "texture": "#0"},
+				"west": {"uv": [10, 3, 11.5, 6], "texture": "#0"},
+				"up": {"uv": [11.5, 7.5, 10, 6], "texture": "#0"},
+				"down": {"uv": [11.5, 8, 10, 9.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [54.66, -84.85, 46.39],
+			"translation": [0, 3.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [54.66, -84.85, 46.39],
+			"translation": [0, 3.5, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -36.5, 0],
+			"translation": [1.5, 6.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -36.5, 0],
+			"translation": [1.5, 6.5, 0]
+		},
+		"ground": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [20.25, 21.25, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [1.65, 1.65, 1.77]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}

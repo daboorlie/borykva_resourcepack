@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "custom/cosmetics/nuklearhia2"
+	},
+	"elements": [
+		{
+			"from": [2.56, -11, -2.58],
+			"to": [13.72, 14.8, 6.42],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.12, 0, 1.12]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.79688, 6.45313], "texture": "#1"},
+				"east": {"uv": [6, 0, 8.25, 6.45313], "texture": "#1"},
+				"south": {"uv": [3, 0, 5.79688, 6.45313], "texture": "#1"},
+				"west": {"uv": [0, 6.5, 2.25, 12.95313], "texture": "#1"},
+				"up": {"uv": [5.04688, 8.75, 2.25, 6.5], "texture": "#1"},
+				"down": {"uv": [8.04688, 6.5, 5.25, 8.75], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [8.72, 40.12, -2.2]
+		},
+		"gui": {
+			"rotation": [-1.43, -33.03, -14.55],
+			"translation": [0, 2.75, 0],
+			"scale": [0.59, 0.56, 0.48]
+		},
+		"head": {
+			"translation": [1, -7.75, -1.75]
+		}
+	}
+}

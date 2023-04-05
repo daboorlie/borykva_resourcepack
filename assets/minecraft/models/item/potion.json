@@ -1,0 +1,47 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/potion_overlay",
+		"layer1": "item/potion"
+	},
+		"overrides": [
+				{"predicate": {"custom_model_data":499}, "model":"custom/brewerly/jar"},
+				{"predicate": {"custom_model_data":500}, "model":"custom/brewerly/wheatbeer"},
+				{"predicate": {"custom_model_data":501}, "model":"custom/brewerly/beer"},
+				{"predicate": {"custom_model_data":502}, "model":"custom/brewerly/darkbeer"},
+				{"predicate": {"custom_model_data":503}, "model":"custom/brewerly/wine"},
+				{"predicate": {"custom_model_data":504}, "model":"custom/brewerly/mead"},
+				{"predicate": {"custom_model_data":505}, "model":"custom/brewerly/apple_mead"},
+				{"predicate": {"custom_model_data":506}, "model":"custom/brewerly/cidre"},
+				{"predicate": {"custom_model_data":507}, "model":"custom/brewerly/apple_liquor"},
+				{"predicate": {"custom_model_data":508}, "model":"custom/brewerly/whiskey"},
+				{"predicate": {"custom_model_data":509}, "model":"custom/brewerly/rum"},
+				{"predicate": {"custom_model_data":510}, "model":"custom/brewerly/gorilka"},
+				{"predicate": {"custom_model_data":511}, "model":"custom/brewerly/mushroom_gorilka"},
+				{"predicate": {"custom_model_data":512}, "model":"custom/brewerly/gin"},
+				{"predicate": {"custom_model_data":513}, "model":"custom/brewerly/tequila"},
+				{"predicate": {"custom_model_data":514}, "model":"custom/brewerly/gr_absinthe"},
+				{"predicate": {"custom_model_data":515}, "model":"custom/brewerly/absinthe"},
+				{"predicate": {"custom_model_data":516}, "model":"custom/brewerly/potato_soup"},
+				{"predicate": {"custom_model_data":517}, "model":"custom/brewerly/coffee"},
+				{"predicate": {"custom_model_data":518}, "model":"custom/brewerly/eggnog"},
+				{"predicate": {"custom_model_data":519}, "model":"custom/brewerly/advocaat"},
+				{"predicate": {"custom_model_data":520}, "model":"custom/brewerly/bonaqua_cola"},
+				{"predicate": {"custom_model_data":521}, "model":"custom/brewerly/bonaqua_cola_cherry"},
+				{"predicate": {"custom_model_data":522}, "model":"custom/brewerly/bonaqua_cola_quantum"},
+				{"predicate": {"custom_model_data":523}, "model":"custom/brewerly/red_hog"},
+				{"predicate": {"custom_model_data":524}, "model":"custom/brewerly/red_hog_co"},
+				{"predicate": {"custom_model_data":525}, "model":"custom/brewerly/sud"},
+				{"predicate": {"custom_model_data":526}, "model":"custom/brewerly/skooma"},
+				{"predicate": {"custom_model_data":527}, "model":"custom/brewerly/mtze"},
+				{"predicate": {"custom_model_data":528}, "model":"custom/brewerly/shein"},
+				{"predicate": {"custom_model_data":529}, "model":"custom/brewerly/jagermaister"},
+				{"predicate": {"custom_model_data":530}, "model":"custom/brewerly/rbob"},
+				{"predicate": {"custom_model_data":531}, "model":"custom/brewerly/jabebe"},
+				{"predicate": {"custom_model_data":532}, "model":"custom/brewerly/horilka_dum"},
+				{"predicate": {"custom_model_data":533}, "model":"custom/brewerly/borukva_juice"},
+				{"predicate": {"custom_model_data":534}, "model":"custom/brewerly/lach_noches"},
+				{"predicate": {"custom_model_data":535}, "model":"custom/brewerly/gus_mead"}
+				
+			]
+}

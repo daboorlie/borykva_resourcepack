@@ -1,0 +1,4476 @@
+{
+# BlazeandCave's Advancements Pack Language File
+ 
+# How to use: Name and descriptions of advancement to left of : and put translation to right of :, inside the speech marks "" like this: "Advancement Description"
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will be updated with new advancements with each new update.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+
+# Language: Russian
+# Author: SoSeDiK (1.4-1.10), vlad8599 (1.10), KorS1z (1.11-1.12), Marsik_the_alien(1.12 - 1.13)
+# Pack version supported: 1.13
+
+# All language entries are organised in alphabetical order of file name as of 1.3
+# All new advancements added in updates later than 1.3 (1.4, 1.5 and so on) will be put at the bottom of the file for easy locating and adding by translators
+
+# Adventuring tab as of 1.3
+
+"Adventuring Time": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Boaty McBoatface": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a boat for sailing on the high seas": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hired Help": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Summon an Iron Golem to help defend a village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cold Feet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every cold biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Disc Jockey": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect all 12 music discs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Do You Want to Trade?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an NPC village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dry Spell": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dry a sponge in a furnace": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Filthy Rich": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make 64 emeralds": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Filthy Stinkin' Rich": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make 64 emerald blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Flower Power": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect all types of flowers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ghostbuster!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bust a Vex summoned by an Evoker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Grave Robber": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter a pyramid in a desert": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Heeere's Johnny!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Vindicator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"House of Psychos": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a Woodland Mansion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I hereby dub thee...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a name tag": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Just Keep Swimming": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Go for a swim": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Kilometre Walk": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's not that far in real life": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Laser Sharks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a Guardian": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Magic Book": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for an Enchanted Book": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mapmaker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or trade an empty map": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Monumental": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an Ocean Monument": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Music To My Ears": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a music disc": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"One with the forest": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every forest biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Overgrown!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every overgrown biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Overpowered": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a Notch Apple": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Postmortal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Totem of Undying to cheat death": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Adventure": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Adventure and exploration": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Snow Feet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every snowy biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spear Fishing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Guardian with arrows": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tarzan": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Swing (or climb) on some vines": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ten Thousand Blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A journey that long begins with a single step": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Deep End": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat an Elder Guardian": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Shielding": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A shield does no better than a locked door": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"This is Mine Now!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an abandoned mineshaft that was not dug out by you": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tomb Raider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter a jungle temple": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Treasure Map": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for an Explorer Map": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Voyage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A hundred kilometres!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Warm Feet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every dry biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wet Feet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every water biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What a Deal!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Successfully trade with a Villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Witchcraft": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a witch hut in a swamp": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wololo!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat an Evoker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+
+# Building tab as of 1.3
+"A Masterpiece!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put up a painting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ah, My Old Enemy...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every type of stairs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Benchmarking": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct a crafting bench with four wooden planks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bricks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fire up that clay!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Change of Sheets": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dye your bed a different color than white": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Classy Glassy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smelt sand in a furnace to get glass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Clay-Dough!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dig up some clay from a lake": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Concrete Evidence": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create concrete from concrete powder by dropping it into water": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Creepers and Withers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Engrave sandstone with creeper and wither patterns": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Display your items for all to see...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft an item frame for displaying your items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Electric!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with some redstone lamps": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"En Garde": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Erect some fencing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Expensive!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with some sea lanterns": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fake fortress": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or collect all forms of nether brick, red nether brick, and nether wart blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fake monument": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or collect all forms of prismarine blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fake stronghold": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or collect normal, cracked, mossy and chiseled stone bricks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fluorescent!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with some end rods": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Getting Wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attack a tree until a block of wood pops out": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Glowing!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with glowstone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Greek Art Decor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft quartz blocks, stairs, slabs, pillars and chiseled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Halloween!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with jack o'lanterns!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"It's a Sign!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place a sign": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"It's a Trap!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place down a trapdoor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Jailhouse Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or find iron bars": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ladder Climbers Inc.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Climb the ladder!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mannequin": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft an armor stand for displaying your armor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Logger": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cut down a full stack of logs of all types": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pathways": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a shovel to create grass paths": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pot Planter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place a flower pot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rainbow Sand": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft concrete powder using sand, gravel and dye": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Raise the flag!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place a banner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rock Collection": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect all the types of rocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Building": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Your only limit is your imagination... and resources": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Slabs For Days": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every type of slab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stationary Storage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place down a chest for storing your items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sweet dreams": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Change your respawn point": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Glazed Terracotta Army": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 colors of glazed terracotta": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Rainbow You Always Wanted": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 colors of concrete": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Terracotta Army": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 colors of terracotta (stained clay)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Walls": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Build some cobblestone walls": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Torched!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with some torches": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Translucence": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 colors of stained glass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What a pane": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft some glass panes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Yay! I got my wood!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect all six types of wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Your Door Was Locked": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a door to stop monsters from entering your house": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Combat tab as of 1.3
+"Blast Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Survive a creeper's blast with your shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bombs Away!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use gunpowder and sand to craft TNT": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bow Spammer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attack a mob by bow-spamming": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Creepy Heads": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Blow up a creeper with a charged creeper to get a creeper head": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dead Don't Die": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a zombie": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Desert Nomad": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a husk": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dungeon Crawler": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat all kinds of mobs from special structures": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Egging, Dude!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Vandalise something with eggs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ender Worm": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Prevent an endermite from maturing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Eskimo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It may be illegal to hunt polar bears in real life, but not in Minecraft": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ew Ew Ew!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a spider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fireworks Display": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use gunpowder and paper to craft fireworks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Frosty": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a stray": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gelatinous Cube": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a slime": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hell Hunter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat all kinds of Nether mobs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Iron Belly": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Stop starvation using rotten flesh": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Leader of the Pack": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Befriend a wolf": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Keep Your Distance": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Creeper with arrows": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Monster Hunter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill any hostile monster": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Monsters Hunted": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill one of every hostile monster": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Night Runner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat all kinds of Overworld night mobs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Not Today, Thank You": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Deflect an arrow with a shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Plane Walker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill endermen in all three dimensions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Point Blank": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shoot a mob from point-blank range": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Poisonous Ew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a cave spider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Combat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Battle against the monsters of this world": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sniper Duel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a skeleton with an arrow from more than 50 meters": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Snowball Fight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The spirit of Christmas... quickly drowned out by a battle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spooky Skeleton": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a skeleton": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spooky Skulls": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Blow up a skeleton with a charged creeper to get a skeleton skull": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Still Talking!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Blow up a zombie with a charged creeper to get a zombie head": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Take Aim": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shoot something with a bow and arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Taste of your own medicine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a witch with a splash potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tele-Morph": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Damage a mob by teleporting into it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Termite Control": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a silverfish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The ender of ender": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill an enderman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Ghastly Eyes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill an invisible spider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Mighty Hunter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hunt all types of animals with your bow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Undead Cavalry": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Encounter and defeat a skeleton horse in a thunderstorm": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"There has to be another way...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a zombie villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Trampoline": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a slime block using slimeballs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Void Ender": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat all kinds of End mobs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What a creep!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a creeper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Witch!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a witch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Enchanting tab as of 1.3
+"Armor for the masses": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every protection related enchantment": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bane of one-shotting spiders": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Bane of Arthropods V": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bow down to me!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Power V": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Complete Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every enchantment throughout your enchanting career": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Curses!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain both types of curses": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fiery": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every fire related enchantment": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fortunate Son": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Fortune III": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Knocking Your Socks Off": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Knockback and Punch enchantments": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Let It Go!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain boots enchanted with Frost Walker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Librarian": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Build some bookshelves for your enchanting table": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Like a Cat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain boots enchanted with Feather Falling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Armorer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a full suit of armor with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every enchantment at their max level throughout your enchanting career": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Fisher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a fishing rod with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Knight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a sword with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a pickaxe with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Sniper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a bow with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Needle Sharp": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Sharpness V": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Heavy Metal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft an anvil": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Overkill": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Deal eight hearts of damage in a single blow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pick Like Silk": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enchanting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enchant items to give them magical abilities": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Scuba Gear": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every water related enchantment": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Super Efficient": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Efficiency V": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Unbreakable": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Mending on an item": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Undead Slayer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Smite V": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# End tab as of 1.3
+"Anti-Gravity Generator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a shulker into the overworld and let it give you anti-gravity": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cow Jumped Over The Moon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a cow from the Overworld to the End and then kill it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attempt to block the dragon's attacks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"End Bricks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft end bricks from end stone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"For Mother, Clarence": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a shulker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Free the End": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Good luck": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Getting Chorus": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attack a chorus tree until it collapses": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Great View From Up Here": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Levitate up a distance of 50 metres": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I'm Coming Back, Murph!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel far into the End dimension": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"No! Don't let me leave, Murph!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel so far into the End dimension you might as well be on another planet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Noxious Fumes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use dragon's breath to brew a lingering potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Off With His Head!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a dragon's head from the bow of an end ship": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Poison Dart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft tipped arrows of poison": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Portable Storage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use shulker shells to craft a shulker box": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Purpurfect!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or collect purpur blocks, slabs, pillars and stairs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Remote Getaway": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Escape the island": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The End": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Or the beginning?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shouldn't my shield levitate too?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Block a Shulker's bullet with your shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sky High": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fly up beyond the world height limit": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sky's the Limit": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an Elytra": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Some Breakthrough": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Exhaust your elytra": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The City at the End of the Game": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Go on in, what could happen?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The End... Again": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Respawn the Ender Dragon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Next Generation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hold the Dragon Egg": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Start of Something": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft your first ender crystal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Uh, Houston? We have a problem": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fly up to a ridiculous height": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You Need a Mint": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect dragon's breath in a glass bottle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Farming tab as of 1.3
+"24 Carrot Gold": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat a golden carrot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Balanced Diet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat everything that is edible, even if it's not good for you": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Horse in Shining Armor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find diamond horse armor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Seedy Place": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Plant a seed and watch it grow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Artificial Selection": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed a horse and a donkey to get a mule": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bake Bread": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Grow wheat and use it to bake bread": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bapple!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Crunch into an apple": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Blistering Barnacles!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get spat at by a llama": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Breaking the Law of Conservation of Matter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Care For the Environment": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Plant down a sapling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Catching Nemo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch a clownfish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Chatterbox": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame a Parrot using seeds. WARNING: Do not use a cookie!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cow Tipper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Harvest some leather": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cowboy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame a horse by jumping on it over and over again": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fishy Business": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch a fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Die, Potato!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Squash and eat a potato": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Do you want to build a snowman?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a pumpkin and snow blocks to build a snow golem": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ecologist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Plant down all six types of sapling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Feeling Sheepish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You'll get over it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Getting Into a Stew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make and eat some rabbit stew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Have a Shearful Day": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use two iron ingots to craft shears": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"High Steaks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The steaks are high for this advancement!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Topic": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct a furnace out of eight stone blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lion Tamer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame an Ocelot using fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Me Love Cookie": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bake some cookies... and then scoff them all yourself": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Meat Lovers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat every type of meat, even if uncooked or rotten": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Milk does your body good": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Take a swig swig swig swig": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mushroom, Mushroom, Mushroom, Mushroom!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slurp some mushroom stew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Naturally Carved": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Harvest some spooky pumpkins": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Not Today!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat a poisonous potato": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Overpopulation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed every type of animal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pork Chop": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You know kung fu, how about pork chop?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rabbit Season": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Killing bunnies is cruel. Period.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rainbow Collection": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Gather all 16 colors of wool": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Renewable Energy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smelt wood trunks using charcoal to make more charcoal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Repopulation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two cows with wheat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Farming": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The world is full of friends and food": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Salmonella Poisoning": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat some raw salmon... and not get poisoned after all": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Serious Dedication": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Completely use up a diamond hoe, and then reevaluate your life choices": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"So Good": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Can't beat it, can't beat it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Souperman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Beetroot soup gives you souperpowers!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sugar, Sugar": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Harvest some sugar cane from a river or ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sushi": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat some raw fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Lie": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Wheat, sugar, milk and eggs!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Melon! The Melon! The Melon!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat a melon. Be careful not to drop it over a cliff": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Pie": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bake a pumpkin pie": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Trimming the Treetops": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use shears to obtain leaf blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ultra Hardcore": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and eat a normal golden apple": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Vegetarian": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat every type of fruit, vegetables, and any sort of plant matter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"When Pigs Used to Fly": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a carrot on a stick so you can ride a pig off a cliff": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You Lead, I'll Follow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a lead for forming a llama caravan": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Mining tab as of 1.3
+"Acquire Hardware": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smelt an iron ingot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bling Bling Gone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Completely use up a golden pickaxe, and then seriously reevaluate your life choices": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Coal Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of coal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fuel Engine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a powered minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cover Me With Diamonds": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Diamond armor saves lives": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Diamond Clad": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A full suit of diamond armor saves even more lives": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Diamond Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of diamonds. Good luck!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Diamonds!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Acquire diamonds": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Electric Rails": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Making furnace minecarts completely useless": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft an enchanting table": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Even MOAR Tools": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a full diamond tools set": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fossil Fuel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Coal! As in dead dinosaurs!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Getting an Upgrade": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct a better pickaxe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gold Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of gold ore": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gold Rush": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Strike gold and smelt it into a gold ingot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Stuff": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fill a bucket with lava": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ice Bucket Challenge": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Form and mine a block of Obsidian": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Iron Man": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a full suit of iron armor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Iron Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of iron ore": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Isn't It Iron Pick": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Upgrade your pickaxe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lapis Lazuli Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough lapis lazuli to craft a stack of lapis lazuli blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mineral Collection": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every type of mineral block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"MOAR Tools": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stone pickaxe, axe, shovel and hoe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Aww it broke!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break your first tool": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"On A Rail": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a minecart using five iron ingots": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Redstone Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough redstone to craft a stack of redstone blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mining": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dig underground, gather resources": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Seeing Red": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine some redstone from the deepest caves": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Suit Up": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Protect yourself with a piece of iron armor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The way to spawn": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a compass in case you forgot where spawn is": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"DIAM- oh, wait, no.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's still useful for enchanting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"We Need to Go Deeper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Build, light and enter a Nether Portal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"We've broken our last shovel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break all five types of shovels": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What's the time, Mr Wolf?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Time to clean your clocks! (Or, craft them!)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Nether tab as of 1.3
+"A Terrible Fortress": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break your way into a Nether Fortress": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Basis of Brewing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Harvest some nether wart from a nether fortress": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Beaconator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a beacon to full power": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bring Home the Beacon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct and place a Beacon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Don't Step on it!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine some magma blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ender's Chest": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft an ender chest for some extra inventory space": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Eye Spy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Follow an Ender Eye": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fire Blast Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Block the explosion of a ghast's fireball": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Giant Floating Jellyfish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shoot down a ghast": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Glows in the Dark": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft spectral arrows using glowstone dust": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"High Temperature Fluid Monster": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a magma cube": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Into Fire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Relieve a Blaze of its rod": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Limbo Walker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get above the roof in the nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Local Brewery": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a Brewing Stand for brewing potions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Quicksand": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You sink like quicksand and move slow like mud": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Return to Sender": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Destroy a Ghast with its fireball": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring summer clothes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spooky Scary Skeleton": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a wither skeleton's skull": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Subspace Bubble": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use the Nether to travel 7km in the Overworld": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The End?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter the End Portal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Hunt Begins": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a wither skeleton": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Nether's Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Block some blaze fireballs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Tribal Snouts": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a zombie pigman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Uneasy Alliance": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Withering Heights": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Summon the Wither": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Potions tab as of 1.3
+"A Furious Cocktail": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Have every potion effect applied at the same time": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Much More Doable Challenge": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get all the effects possible during your life (not all at the same time)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Weak Brew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew up a potion of Weakness": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Death by Magic": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a mob with a splash potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hopping Mad": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get jump boost from a beacon or a potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"How did We Get Here?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Have every effect applied at the same time": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hyper-Healing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew and drink a regeneration potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Medic!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew a healing potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Marine Marauder": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch a pufferfish and use it to brew a water breathing potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nocturnal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew and drink a night vision potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Performance-Enhancing Drugs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew a Speed Potion for cheating on athletics": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Potions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brewing potions with helpful and hindering effects": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stayin' Frosty": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Drink a fire resistance potion so you can go swimming in lava": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Super Strength": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew a Strength Potion for cheating on weightlifting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Invisible Player": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew and drink an invisibility potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zombie Doctor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cure a zombie villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Redstone tab as of 1.3
+"Bling Plate": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dine in style! (No, not really)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Comparing Comparator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a redstone comparator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dispense With This": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct a dispenser": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Metal Plate": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dinner time!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Moving Parts": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a piston so you can push things": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mozart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a note block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Observer Buddy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft an observer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pressure Detector": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a pressure plate to craft a detector rail": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Quartz Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough nether quartz to craft a stack of quartz blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Quirky Quartz": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine Nether Quartz from the Nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Repeating Repeater": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a redstone repeater for delaying signals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Redstone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cracking contraptions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Solar Power": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a daylight sensor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Space Dropper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a dropper for item transportation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Space Hopper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a hopper for item transportation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sticky Parts": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a sticky piston so you can pull things": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tripping Over": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a tripwire hook for your traps": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Troll Chest": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a trapped chest to troll your friends": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Under Pressure": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a pressure plate": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# All advancements added in version 1.4 are here
+
+"Beginning": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A brave new world": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time to Chop!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use planks and sticks to make a axe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time to Farm!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use planks and sticks to make a hoe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time to Mine!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use planks and sticks to make a pickaxe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time to Strike!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use planks and sticks to make a sword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Stripper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Strip the bark off of all six types of logs then pick them up": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Flint Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of flint": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"My work here is done": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get caught in a cave-in of gravel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nananananananana...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Accidentally hit a bat underground": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Obsidian Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of obsidian. (This might take a while...)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rock Bottom": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dig down to the bottom of the world": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spelunker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter a cave": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stone Age": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine stone with your new pickaxe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"An amazing story!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Finish writing in your book or get a book from another player": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Aquatic Biofuel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a dried kelp block for use as a great fuel source": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hay there!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of hay blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"It's full of ink": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain some ink from hunting a squid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"It's where nutella comes from": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain some cocoa beans from a jungle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Kelp me!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect some kelp from an ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pumpa kungen!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Carve a stack of pumpkins": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Meloncholy Dane": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of melon blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Undersea Gardener": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of dried kelp blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Write your thoughts": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a book, ink and a feather to craft a book and quill": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Animals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hoe hoe hoe!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Aquarium": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch all four types of fish and set them free in an aquarium": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Are we there yet?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame a donkey": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bacon!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Gotta kill this pig pig pig pig": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Chicken Cooper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of raw chicken and feathers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Farrier": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed a horse in an effort to get a better one": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Feeding the §mDucks§r Chickens": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed chickens by feeding them seeds": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hey, look, Mom!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use sea grass to make a turtle lay some eggs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"If only cats grew into kittens": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two cats together to get a kitty!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"In a hole there lived a Rabbit": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of raw rabbit and rabbit hide": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mary Had a Little Lamb...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two sheep to get a lamb": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mooshroom Kingdom": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find mooshrooms on a mushroom island": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pig Slaughterer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of raw porkchops": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Poacher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a turtle for their shells only to find they don't actually drop any when killed": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Puppies! Yipe!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two wolves together to get a puppy!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Scuttler": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get a scute from a baby turtle when it grows up": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sheariously?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of white wool": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"So I got that going for me": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two llamas with hay": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Someone's been here before...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fish out a ratty old pair of boots": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stay Calmer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame a llama": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Super Mooshroom": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two stubborn mooshrooms together": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tactical Fishing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch a fish... without a fishing rod!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"They're breeding like rabbits!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two bunnies together": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tickle Time!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pluck some feathers from a chicken": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Totally not an AFK fisher!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fish out all types of items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Treasure Hunter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fish out a piece of treasure": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"True Cow Tipper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of raw beef and leather": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Turtle Army": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of scutes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Turtle Soldier": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a full turtle shell": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What a piece of junk!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fish out a junk item": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wooly!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain wool from a sheep by killing it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Yay! Deadbush!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get a deadbush cause you're a noob": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"A Throwaway Joke": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Throw a trident at something. Note: Throwing away your only weapon is not a good idea": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Watery Grave": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a drowned in the briny depths. ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Gurgle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Anti-Air": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shoot down a phantom with a bow from 30 blocks away": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Because I'm Aquaman!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a trident from a Drowned": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Boned": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Grind up some bones into bonemeal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Creeper Killer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of gunpowder": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enderman Destroyer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of ender pearls": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Freezing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a husk to a tundra biome and then kill it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Melting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a stray to a desert biome and then kill it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Phantom Slayer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of phantom membranes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Poseidon vs Hades": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hunt all types of nether creatures with your trident": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ricochet Swoop": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Deflect a Phantom's swoop with your shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Skeleton Smiter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of bones": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Slime Squisher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of slimeballs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spider Smasher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of string from spiders or cobwebs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Aquatic Hunter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hunt all types of aquatic creatures with your trident": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Phantom Menace": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get attacked by phantoms": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tridented Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Block a trident thrown by a Drowned": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Underwater Duel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a drowned using a trident from at least 30 metres": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"We'll handle this": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Lure a Phantom into the Nether and then kill it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zombie Slayer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of rotten flesh": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+
+"Atlantis": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Explore some Underwater Ruins": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dolphin Dasher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get a speed boost from your friendly underwater companions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Eeuuwww!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get stuck in a cobweb": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enchanted Forest": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a flower forest": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Explorer of Worlds": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every biome including special biomes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get Ship-rekt!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Come across a sunken ship": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gold Mine!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a mineshaft on the surface of a mesa biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Guardian Destroyer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of prismarine shards and crystals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"In a Pickle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect some sea pickles from a coral reef": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Just a sample": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect some coral from a coral reef": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"No Reefing!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect all colors of coral blocks, plants and fans (including dead ones)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Power of the Ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct a Conduit in the ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Secret of the Igloo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an igloo in a snowy tundra": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spike Ice!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break down an ice spike using a silk touch pickaxe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spikey!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Run into a cactus": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sponge Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of sponges from ocean monuments": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Great Blocky Reef": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Come across a coral reef in the ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"There's a zombie on the lawn": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a sunflower plains": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Thick Ice!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or mine a blue ice block from an iceberg": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Thin Ice!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a silk touch pickaxe to pick up some ice blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Titanic": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a shipwreck in an iceberg biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"X Marks the Spot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a treasure map to find a Heart of the Sea in Buried Treasure": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Engineer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all types of redstone component": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Engineer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of all types of redstone component": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Boomerang": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Turn your trident into a boomerang by getting Loyalty on it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Very Very Frightening": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Strike a Villager with lightning": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Tridenteer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a trident with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zeus": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Channeling on a trident": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Blaze Extinguisher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of blaze rods": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ghast Slayer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of ghast tears": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Glowstone Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine or craft a stack of glowstone blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Magma Cube Squisher": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of magma cream": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Seeing Stars": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine some glowstone dust from the nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Tank": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Become nearly invincible to all damage using a Turtle Master Potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"True Feather Falling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew and drink a slow falling potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Extrabiologist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Plant a chorus plant in the overworld for study": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shulker Breaker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of shulker shells": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Void Walker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Explore every end biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# All advancements added in version 1.5 are here
+
+"Iconic Merchandising Prop": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a pickaxe of the highest calibre": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Living Like Kings": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make yourself shiny with golden armor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Coal Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough coal to make a stack of coal blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Diamond Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough diamond to make a stack of diamond blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Gold Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough gold to make a stack of gold blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Iron Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough iron to make a stack of iron blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Meet The Flintstones": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dig up some flint from a patch of gravel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stabcraft": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Do you like my sword sword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Mistake!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put Mending on a piece of golden armor and realise what you are doing in life": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Barking Mad": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a bark block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lost Its Bark": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Strip a bark block of its bark": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"No Banner, Only Color!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 banner colors": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Professor Birch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of birch wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Professor Dark Oak": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of dark oak wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Professor Oak": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of oak wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rainbow Dreams": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every color of bed": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spruce Lee": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of spruce wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Acacia King": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of acacia wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Jungler": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of jungle wood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"It's a cactus!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break down a cactus in a desert": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mega Mushroom": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Grow a giant mushroom and then harvest it with silk touch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shrooms": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Gather both types of mushroom": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Direct Fishing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch a fish by directly skewering it with a sword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fuzzy Feet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 colors of carpet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Grinding Nemo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Skewer a tropical fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lucky Charm": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get a rabbit's foot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Angler": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of all four types of fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tropical Collection": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect all 22 of the common types of tropical fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Camouflage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a mob while wearing the same type of mob head": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Businessman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with every type of villager career": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"MURDERER!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pushed Around": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter a bubble column": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Raidin' Master": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every structure type": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rekt!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get killed by a natural iron golem defending its village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The sea calls you...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Travelling Merchant": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel to every type of village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Mobile Explosion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put TNT in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Moving Moving Storage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put a hopper in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Moving Storage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put a chest in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Powerful Light": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place a redstone torch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Railwayman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of all the different types of rails": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Do A Barrel Roll!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get Riptide on a trident so you can shoot yourself through the water": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Newton's Flaming Laser Sword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Have a diamond sword with Fire Aspect II": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"To Infinity And Beyond!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Infinity on a bow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ultimate Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every enchantment at every level throughout your enchanting career": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Shoot a mob with a spectral arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bring Down The Beast": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring down a ghast with a sword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Furious Ammunition": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every type of tipped arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Point of No Return": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fall into the void": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Somewhere Over The Rainbow...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all 16 shulker box types": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+
+# All advancements added in version 1.6 are here
+"Beethoven": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a jukebox with planks and a diamond": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Blast it!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Upgrade your furnace to a blast furnace using iron and smooth stone for smelting ores quicker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Camping Out": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place a campfire using some logs, sticks and coal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Classic Pocket Edition Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stonecutter using stone and an iron ingot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Its original form": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use your furnace to smelt cobblestone back into stone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"MOAR Broken Tools": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break every single tool and weapon in the game": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Not Chicken McNuggets?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or find iron nuggets": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Not for creating copies of yourself": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a smithing table": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rest in Pickaxes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break your first diamond pickaxe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sharpening Station": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a grindstone using a stone slab, planks and sticks for repairing tools": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spawn Camping": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel close to 0,0 coordinates and place down a campfire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Smokin' Hot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Upgrade your furnace to a smoker using some logs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Smooth, dude!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smelt normal stone further into smooth stone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Where are all your clothes?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break every type of armor piece in the game": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Barrel Rider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place a barrel. Totally not for riding in": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Crazy Walls": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every type of wall": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Festival of Lights": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area using a lantern": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Logos": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all the special banner patterns": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fruit of the Looms": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Prepare to meet your Loom!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a loom with string and planks for creating your own banners": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Speech! Speech! Speech!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a lectern using wooden slabs and a bookshelf then place it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Berry Nice!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick and eat some sweet berries": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Disen Berry Berry Bad!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get stuck in a sweet berry bush. Oh, icky yucky goo!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I'm gonna be sick!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slurp every kind of suspicious stew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Suspicious Looking Stew": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slurp some suspicious stew and pray you don't suddenly see giant flying eyeballs in the sky": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The garbage will do!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a composter using planks and wooden fences then place it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Birdkeeper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame all parrot variants": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bunny Lover": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed a baby bunny of every variant": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Colorful Cavalry": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dye 16 sets of leather horse armor each with one of the individual colors": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cool Kids": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a leather jacket": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fashion Statement": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dye some leather pants with one color": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Horse Armorer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make horse armor out of dead horses (No, joking, any leather will do)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Llama Llama Duck King": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame all llama variants": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Farrier": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame all horse variants": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mushroom Scientist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Strike a mooshroom with lightning and see what happens": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shoe Shed": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dye 16 pairs of leather boots each with one of the individual colors": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Snow Fox 64": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two snow foxes with sweet berries": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What Does The Fox Say?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two red foxes with sweet berries": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Which came first?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The chicken... or the egg??": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Monsters": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Baby, baby, baby noo!!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill one of each of a baby zombie, zombie villager, husk, drowned and zombie pigman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Captain Etho": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a Drowned holding both a nautilus shell and a trident": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Custom Boss Fight!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give a zombie full diamond armor and a diamond sword... then kill it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Handsome Jack": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a mob wearing a Jack o' Lantern on Halloween": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Legend of the Hell Chicken Rider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a chicken jockey in the nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mollusc Man": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a Drowned holding a nautilus shell": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ooh, Baby!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a baby zombie": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Trick or Treat!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a mob wearing a pumpkin": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Two Birds, One Arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill two Phantoms with a piercing arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"A snowball's chance in hell": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a Blaze using snowballs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Axeman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attack a mob using all five types of axes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Demolitions Expert": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Blow up every hostile mob with TNT": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Diamonds to you!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit a mob with diamonds": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Expelliarmus!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit a mob with a stick": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Explosive Fire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Load your crossbow with a firework": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Flying Colors": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Apply a banner (with no patterns) to your shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Indiana Jones": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pull a monster using a fishing rod": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Shieldsman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Deflect an attack from every hostile monster": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ol' Betsy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shoot a crossbow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pig Fishing Tournament": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pull a pig using a fishing rod": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Revenge!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Blow up a creeper with TNT": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shield Luck": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Protect yourself from an enemy's attack with your shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shovel Knight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit a mob using all five types of shovels": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sir Knight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use planks and iron to craft a shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Slapfish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slap a mob across the face with a fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"That is so fletch!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a fletching table": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"There's yolk on my head": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catapult an egg onto a zombie's head": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Viking": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attack a mob using an axe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Weaponry": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Weapons of choice for combat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"When Pigs Finally Fly": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pull a pig from 25 blocks below you and watch it go": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Who's the Pillager Now?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give a Pillager a taste of their own medicine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"X-Bow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a crossbow using stick, spider string, iron and a hook": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"King of the Sea": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Bamboom!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Break down some bamboo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Biomes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"All around the world!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Construction Worker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and use some scaffolding": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"For you, my sweet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick a flower for someone special": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Kung Fu Panda!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get beaten up by an angry panda": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Simba": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed a baby ocelot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Mighty Jungle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Go for a safari in the jungle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Top of the World": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place scaffolding to the world limit": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zoologist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two pandas to get a baby panda": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Village, Pillage and Dungeons!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Kill a Vindicator in a Woodland Mansion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Defeat an Evoker in a Woodland Mansion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"All chained up": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for a piece of chain armor from an armorer villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Complete Catalogue": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame all cat variants!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Crazy Cat Lady": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame a stray cat in a village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Deal's Off!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get spat at by one of the Trader Llamas": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Feeling Ill": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat every type of Illager as part of a raid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Florist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for a flower from the Wandering Trader": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hero of the Village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Triumph over a full raid for the first time": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"How to stop a rhino from charging": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Have a Ravager slam into your shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Illagers on Patrol": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat the leader of an Illager Patrol": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Voluntary Exile": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a raid captain. Maybe consider staying away from villages for the time being...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"It's So Beast-Like!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slay a Ravager in a raid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lilypad Hatter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed and trade with a swamp villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mapmaker's Table": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a cartography table with paper and planks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Trader": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with every type of villager career at master level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Oh, look, it dings!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick up a bell from a village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Out of Posts": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter a Pillager Outpost": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Picador": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit a Ravager with a thrown trident": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rebuilding the Oceans": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for a coral block from the Wandering Trader": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Retro Future Knight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for full suit of chain armor from an armorer villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Riot Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Deflect a Pillager's crossbow bolt": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shady Deals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with a Wandering Trader while he is invisible": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stockbroker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with every profession from every biome type": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Tribal Villagers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed and trade with a jungle villager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Haggler": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with a villager at master level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Town Planner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place every type of villager workstation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Traveller": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel to every type of village and trade with a villager in each": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Trade with a Wandering Trader": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Veteran of the Village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attain the highest level of Hero of the Village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Village Settler": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for a new bell to establish a new village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"War is Coming": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat enough Illager Patrol leaders to attain the highest level of Bad Omen": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You are the Pillager": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Murder one of every villager profession with a crossbow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Arbalistic": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill five unique mobs with one crossbow shot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Emerald Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of raw emerald ore": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Machine Bow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fire a crossbow as rapidly as possible": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Arbalist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a crossbow with all possible enchantments at max level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shotbow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shoot three arrows at once with a crossbow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Hell's Bells": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place a bell in the nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Decaying Beauty": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick up some Wither Roses from the damage the Wither wrought on your world": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Gas!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a mob using a lingering potion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"The Actual End": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get killed by an Enderman in The End": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Beginning": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Say goodbye to the Wither...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# All advancements added in version 1.7 are here
+"I don't like sand": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's coarse, and rough, and irritating, and it gets everywhere": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Insomniac": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Go 30 days without sleep": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Art Gallery": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place every type of painting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Writer's Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Chestful of Cobblestone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine 1728 cobblestone, place it in a chest, then stand on it in victory": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bubble, Bubble, Toil and Trouble!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fill a cauldron using a bucket": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Washing Machine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a cauldron to clean leather armor, a banner and a shulker box": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Must be your birthday": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat 100 slices of cake": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Castaway": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat nothing but dried kelp for three in-game days": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Free Diver": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Stay underwater for 2 minutes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sleep with the Fishes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Spend a day underwater": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Qinling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed a rare brown panda": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"We're being attacked!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trigger a Pillager Raid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Superhero of the Village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat enough raid captains to obtain a stack of Ominous Banners": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I've got a bad feeling about this": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Aww man!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"That was a nice life you had. Shame it had to end at this time time time": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Iskallium Collector": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect enough slimeballs to craft a stack of slime blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spider-skeleton": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Does whatever a spider can": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+
+"Artillery": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Have nine loaded crossbows in your hotbar. All set!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+
+"Magical Stockpile": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a full stack of bottles of enchanting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Ancient Kung Fu Master": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sneak 10km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Black Belt Ninja": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sneak 1km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Boing, Boing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Jump 10,000 times": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cupid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed 500 animals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Did you just run across earth?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sprint 1000km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Elderly Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enchant 250 items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Frequent Flyer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fly 100km with elytra": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Global Railway Network": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 100km in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Happy Birthday!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Play for a whole year!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Horse Training": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 1km on a horse": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I enjoy long walks & playing MC": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Walk 1000km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I Like Trains": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 10km in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Journeyman Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enchant 50 items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Jumping Jacks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Jump 100,000 times": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Laps in the pool": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Swim 1km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Level Up": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reach 30 experience levels": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lightning McPig": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 10km on a pig": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Luxury Cruise": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sail 1km in a boat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Marathon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sprint 42km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Minecart Rider": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 1km in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Novice Enchanter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enchant 10 items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Olympic Athlete": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Swim 10km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Olympic Gold Medallist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Swim 100km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Out for a stroll": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Walk 10km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Overlevelling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reach 100 experience levels": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Passing the Time": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Play for 100 days": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pig Training": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 100m on a pig": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pirate Captain": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sail 10km in a boat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Statistics": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"If your numbers go up, you're having more fun": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sailor of the Seven Seas": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sail 50km in a boat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Scourge of the West": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 50km on a horse": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sheriff Firearm": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 10km on a horse": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sneaky Snitch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sneak 100m": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Snout 500": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 1km on a pig": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spring in your step": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Jump 1000 times": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Supersonic": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fly 10km with elytra": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Take to the Skies": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fly 1km with elytra": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The First Night": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Survive the first night in your brand new world": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Parrots and the Bats": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed 100 animals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Two By Two": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed 2500 animals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Who needs cars?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Walk 100km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"XP Grinder": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reach 1000 experience levels": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Your legs must be tired": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sprint 250km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Mad Scientist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cure a zombie villager of every profession": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Furious Test Subject": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get attacked by a mob with every potion effect": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Event Horizon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Survive void damage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon vs Dragon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill the Ender Dragon while wearing a Dragon Head": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rocketman": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fill your inventory with full stacks of firework rockets": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"A Million Blocks Away": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel a million blocks away from spawn": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Abyss Lord": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of Conduits": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"All the Blocks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain all the blocks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"All the Items!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain all the items!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Biological Warfare": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill every mob in the game with lingering potions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Creepergeddon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of Creeper Heads": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Death From All": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get killed by every mob that can kill you. (Ignore in hardcore mode)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon Army": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of Ender Dragon Heads": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon vs Dragon II: Electric Boogaloo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat the Ender Dragon while wearing a dragon head... without touching the ground": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Endergeddon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Send every mob to the End... and kill them all there": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Global Vaccination": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cure a zombie villager of every profession... from every biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Highway to Hell": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Send every mob to the Nether... and kill them all there": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I'm in Space!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Levitate up a distance of 256 blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Immortal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fill your entire inventory with Totems of Undying": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nuclear Fusion": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Strike every mob that can transform with lightning at once": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Potion Master": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill every mob in the game with splash potions": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rise of the Skeletons": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of Skeleton Skulls": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Super Challenges": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Good luck completing... any of these ;)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stack All the Blocks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of all the blocks!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stack All the Items!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of all the items!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The World Is Ending": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Summon ten withers at once": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Warlock": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of Beacons": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"We're in the endgame now": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Construct a village in the End and defend it from a raid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zombie Apocalypse": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of Zombie Heads": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# All advancements added in version 1.8 are here
+"Ya like jazz?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two bees using flowers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Winnie the Pooh": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Drink some honey": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sticky Situation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Jump into a honey block to slide down it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"WHERE'S THE HONEY LEBOWSKI": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Drink 100 bottles of honey": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hive Mind": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a bee hive using planks and honeycombs then place it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"NOT THE BEES!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get stung to death by bees": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Honey, I'm Home!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of honeycomb blocks for building a home out of": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Aaaaaand... OPEN!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and place an iron door": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cut In Half": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft some slabs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stairs? NOOOOO!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft some stairs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Everybody Loves Ice!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of every type of ice in your inventory": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Full Stomach": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fill both your hunger bar and saturation level": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Help! I've been framed!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Craft a composter using wooden slabs then place it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enter an underground cave": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Heart of Darkness": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Submerge yourself in complete darkness": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I'm in Lava With You": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit something while you and it are in lava": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Total Beelocation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Move a Bee Nest with 3 bees inside using Silk Touch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bee Our Guest": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a bottle to collect Honey from a Beehive with a campfire beneath it so you don't aggravate the bees": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# All advancements added in version 1.9 are here
+"BlazeandCave's Advancements" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Loads of brand new advancements for your Minecraft world!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mining Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Mining tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Building Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Building tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Farming Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Farming tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Animal Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Animal tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Monsters Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Monsters tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Weaponry Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Weaponry tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Biomes Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Biomes tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Adventure Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Adventure tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Redstone Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Redstone tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enchanting Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Enchanting tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Statistics Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Statistics tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nether Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Nether tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Potions Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Potions tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"End Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the End tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Super Challenges Milestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every advancement in the Super Challenges tab. Good luck with this one ;)" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Advancement Legend" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Complete every single advancement in BlazeandCave's Advancements Pack" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# Name and description changes in version 1.9
+"I am Ravager, hear me ROAR!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon vs Dragon II" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Legend of Hell Chicken Riders" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Scientific Inaccuracy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Olaf" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Do you want to build a snow golem?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mushroom, Mushroom!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Agent Smithing Table" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Foal Play" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Moskstraumen" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ring a bell in a village" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ring a bell in the Nether" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# All advancements added in version 1.10 are here
+"Dungeons and Spawners" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Open a chest in a dungeon deep underground" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Steals on Wheels" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Loot a minecart chest from an Abandoned Mineshaft" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Delicious, Hot Schmoes!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place every type of cookable food on a campfire" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Oresome!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of every ore block" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Grass Type" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain every type of grass block in your inventory" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Shroom Lightyear" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with Shroomlight!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cerulean!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light up the area with soul fire torches and soul fire lanterns!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Let There Be Light!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hold a stack of every light-emitting block and item" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"No Chain, No Gain" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a chain using an iron ingot and iron nuggets" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Blackstonehenge" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or collect all forms of Blackstone, Polished Blackstone and Polished Blackstone Bricks" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Colors of the Wind" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dye a sign with each color of dye" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Natural Fertiliser" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fill up a composter" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Combine Harvester" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use bone meal on everything that can be grown" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What's new with composting?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Compost every type of compostable item in a Composter" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Gluttonous Diet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a full stack of all the foods" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Foilage" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use shears to pick up tall grass or ferns" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Going Down the Rabbit Hole" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a rabbit to the bottom of the world, then kill it" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Just Keeps Going" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat Rabbit Stew, then avoid eating for the next 3 in-game days" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nest, Quick!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of empty bee nests" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Heavy Duty Caravan" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tame a llama with a strength of 5" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Save the Turtles!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of turtle eggs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"So Long & Thanks For The Fish" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get murdered by dolphins" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Now You’re Thinking With Portals" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a broken Nether Portal in the Overworld" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I just want to make toast!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Name a bunny 'Toast'" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What's Up, Doc?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Turn a mob upside-down" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nyan Sheep" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Nyan Nyan Nyan Nyan..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Slenderman" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat this terrifying monster" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The one and true Johnny" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat Johnny" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Prime Specimen" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find Tall Grass or a Large Fern inside a village chest" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Redemption Arc" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Befriend a Pillager that doesn’t have a crossbow" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Council of Crafters" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with a villager at height limit" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Workaholic" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of all the villager job site blocks" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I am Loot!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Open up every type of loot chest" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Paleontologist" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft or mine a stack of bone blocks" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Impossible..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill an Enderman with an arrow" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Family Reunion" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reunite all zombie variants (and their baby forms) in one place" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bone-to-party" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reunite all skeleton variants and their three-headed overlord in one place" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Loser!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Die twice within ten seconds" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Multiclassed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit a mob with every type of weapon" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pyrotechnic" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a firework of every shape and additional effect" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"My eyes!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a mob using a firework's explosion" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Who ya gonna call?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a ghast using a firework's explosion" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Target Acquired" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put up a Target for archery practise" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Target Practise" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit a Target with all types of projectiles" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bullseye" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hit the bullseye of a Target Block with an arrow from 30 blocks away" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"This name sounds cooler" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Name your Diamond Sword 'Diamond Edge'" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I'll be back" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Name your bow 'Terminator'" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"God of Thunder" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Name your Trident with Loyalty III and Channeling 'Mjolnir'" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A rather pointy fence post" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enchant a wooden sword with Sharpness V. Not really the best weapon, but it could be a minor annoyance to someone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gotta Go Fast!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain the Soul Speed enchantment from a Bastion or bartering with Piglins" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Handmade Blinding" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Wear a carved pumpkin enchanted with Curse of Binding" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Digger" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a shovel with all possible enchantments at max level" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Axeman" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create an axe with all possible enchantments at max level" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Farmer" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a hoe with all possible enchantments at max level" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Mob Hunter" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat 250 mobs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bloodthirsty" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat 2500 mobs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Kill or be Killed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat 25,000 mobs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Taking It In Stride" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 100m on a Strider" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Who Needs Boats?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 1km on a Strider" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"This Ride Is Lit, Yo!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride 10km on a Strider" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Stem Research" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attack a huge Nether Fungi until a stem pops out" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What a Fungi!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick up Crimson or Warped Fungus" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I am Root" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick up some crimson or warped roots" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Don't Blink" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Climb on some Weeping Vines in a Crimson Forest" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Twisted" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Climb on some Twisting Vines in a Warped Forest" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What about Corruption Planks?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of crimson wood" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Welcome to Warp Zone!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every item made out of warped wood" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Tourist Destination" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Explore every Nether biome" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hell Botanist" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Gather a stack of every Nether plant" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spreading Corruption" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place one of every nether block in the overworld" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Struggle Nether Ends" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place one of every nether block in The End" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Roadhog" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hunt a Hoglin for food" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"When Hoglins Breed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed a baby Hoglin using Crimson Fungi" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Whole Hog" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get mauled by a Hoglin" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Giddy Up!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Punch a baby Hoglin that is being ridden by a baby Piglin" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zork Chop" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a Hoglin into the Overworld to zombify it, then kill it for zorkchops" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"This Boat Has Legs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride a Strider with a Warped Fungus on a Stick" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bobbleheads" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two Striders using Warped Fungus" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"This One’s Mine!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Zombified Piglin that is riding a Strider and take its steed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Oh, Shiny!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Distract Piglins with gold" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cultural Misunderstandings" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slay a Piglin in battle... or an accidental incursion" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Who is Cutting Onions?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain Crying Obsidian from a ruined portal or bartering with Piglins" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Anchorman" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a Respawn Anchor using Crying Obsidian and Glowstone then place it down" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Not Quite 'Nine' Lives" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Charge a Respawn Anchor to the maximum" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"We Got a Live One!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Bring a Piglin into the Overworld then spare it from an eternity of zombification" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"When Piglins Fly" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give a piglin elytra then kill it" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Electrifying Alliance" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smite a ghast with lightning from the Overworld’s heavens" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time to Fire Back" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of fire charges" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"From Whence It Came!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find a broken Nether Portal in the Nether" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Those Were the Days" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fight your way into a Bastion Remnant" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"War Pigs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Loot a chest in a Bastion Remnant" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gilty!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine some Gilded Blackstone from a Bastion Remnant" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wub wub wub!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain the Pigstep music disc from a Bastion Remnant" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nugget in a Biscuit" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine Nether Gold Ore for a pile of gold nuggets" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dark Ages" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine Blackstone from a Basalt Deltas biome" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Burnt Right Into Your Soul" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get caught on Soul Fire" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Soul For A Soul" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place down a Soul Campfire" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Let Me Out!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Stay in the Nether for twenty ingame days" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Inception" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Build a machine that can break a hole in the roof of the Nether" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Descent" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dig down into the deepest depths of the Nether" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nether Say Die" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Excavate out some Ancient Debris from deep beneath the lava oceans" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Holy Scrap!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smelt Ancient Debris into Netherite Scrap" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Diamonds Are Not Forever" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use Gold Ingots and Netherite Scrap to make a Netherite Ingot" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"MOAR Upgraded Tools" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a Netherite Pickaxe, Axe, Shovel and Hoe" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Knight to Nether Forget" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Smithing Table to upgrade your diamond armor to netherite armor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Soul Runnings!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Step on Soul Sand with Netherite Boots enchanted with Soul Speed III" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fool Me Twice" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Completely use up a netherite hoe. Clearly you have chosen... poorly" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get a Lode Of This!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a Lodestone using Chiseled Stone Bricks and a Netherite Ingot" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Country Lode, Take Me Home" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Compass on a Lodestone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lodes of Applications" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Create a Lodestone Compass in all three dimensions" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Archaeologist" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of Ancient Debris" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Failed Concoctions" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Brew a mundane and thick potion" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"What For?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft 64 ender crystals" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ring of the End" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat the Ender Dragon 20 times" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"In Your Face, Neil Armstrong" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Colonise the End with potato crops" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Organizational Wizard" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Name a Shulker Box 'Blocks' for storing your blocks" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Wizard’s Breakfast" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat a stack of Chorus Fruit in one go" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Constellation" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect 64 nether stars" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hearts of the Stack" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect 64 Hearts of the Sea" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Devil's Distance" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use the Nether to travel 666km in the Overworld" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ad Astra" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reach an altitude of 10,000 blocks above the world" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon vs Wither: Pre-Sequel" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat the Wither while wearing a Dragon head... without touching the ground" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Name and description changes in version 1.10
+"Knowledge is Power" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Obtain all the special banner patterns" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Play a music disc in a jukebox" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Listen to all the music discs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wear a full suit of iron armor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Craft or collect all forms of nether brick and red nether brick" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Craft all forms of quartz blocks" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sleep in a bed to change your respawn point" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Break all six types of shovels" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Attack a mob using all six types of axes" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hit a mob using all six types of shovels" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Defeat a Drowned that is holding a nautilus shell" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Defeat a Drowned that is holding both a nautilus shell and a trident" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Strip the bark off of all six types of logs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sprint 42.195km" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Reach 300 experience levels" :"Заполучите 300 уровень опыта",
+
+"Fly 1000km with elytra" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Use a treasure map to find Buried Treasure" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Hardcore-Friendly Version description changes
+"Get attacked by a natural iron golem defending its village" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get attacked by dolphins" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get hurt by every mob that can kill you" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get attacked by an Enderman in The End" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Take damage twice within ten seconds" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get attacked by Piglin Brutes" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# All advancements added in version 1.11 are here
+"Time to Dig!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use planks and sticks to make a shovel" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Throw diamonds at another player or mob" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"One Pickle, Two Pickle, Sea Pickle, Four" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place four sea pickles in a group underwater" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Harry Potter" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place every type of plant in a flower pot" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Armor Display" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place all six sets of armor on six different armor stands" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Unmasked" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Shear the Pumpkin off of a Snow Golem to unveil their true face" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Delicious Fish" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cook and eat a fish!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Milkshroom" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Milk a mooshroom with a bowl to get mushroom stew" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Live and Let Dye" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dye Sheep with all 16 colors of wool" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Foxy Thievery" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give a fox a Totem of Undying" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lead the Way!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a lead using string and a slimeball, then attach it to a mob" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Beeloons!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attach a lead to a bee" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Leader of the Animals" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Attach a lead to every mob that can be leashed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Echolocation" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Feed a dolphin fish to have it lead you to treasure" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lion Hunter" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Feed an Ocelot fish to try and gain its trust" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Your Daily Fix" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use an Iron Ingot to repair a damaged Iron Golem" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"I'm not lost anymore!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Right-click a banner with a map" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Controlled Detonation" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Persuade a Creeper to blow up using Flint and Steel" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Miracle Drink" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Drink milk or honey to cure poison when on half a heart" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dead Really Don’t Die" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give a zombie a Totem... so that you have to kill it twice" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Half Heart Life" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Be on half a heart of health for a minute" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Brute Force" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Defeat a Piglin Brute in a Bastion Remnant" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Et tu, Brute?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get murdered by Piglin Brutes" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lava Fishing" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reel in a Strider using a Fishing Rod" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nether Rock Collection" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of Netherrack, Basalt, Blackstone and Glowstone in the Nether" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# Name and description changes in version 1.11
+"Attach a lead to a llama to form a llama caravan" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Use Shears to obtain wool from a sheep" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Swim in lava while having the Fire Resistance effect" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Diemonds!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# Trophies added in version 1.11
+"Awarded for achieving" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Miner's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Don't mine at night!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Builder's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A build of a thousand blocks begins with a single brick" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Farmer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It ain't much but it's honest work" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Butcher's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"No animals were harmed in the obtaining of this trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"(just simulated ones)" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Slayer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This is all that's left of your foes once you're done with them" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sword Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slice and dice" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Explorer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's a magical world, ol' buddy... let's go exploring!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Adventurer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"So much to do, so much to see..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mechanic's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give me somewhere to stand and I can move the Earth" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enchanter's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"What's next? Enchanting mobs?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Statistician's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Lies, damned lies, and statistics" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nether Adventurer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You'll nether find a better trophy anywhere else!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Potion Brewer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"How did you get here?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"End Adventurer's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"What could possibly come after the end?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Challenger's Trophy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Imagine what the reward must be for the entire datapack" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Yellow T-Shirt" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"I completed BlazeandCave's Advancements Pack" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"and all I got was this lousy T-shirt" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Spoon" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"There is no spoon" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Santa's Present" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Someone's been naughty this year..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Golem Kit" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The pumpkin is sold separately" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Golden Crown" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Piglin-approved" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mayor's Throne" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"MUMBO FOR MAYOR!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Logolas" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The axe of choice by the masters of chopping" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Torch God's Favor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The Torch God shall no longer haunt Minecraft" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Journal" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"After all these years, I finally have them all..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"What are you doing reading this for? Go get Advancement Legend already!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Magic Wand" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Made of holly, eleven inches long," : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"and contains a single feather from the tail of a phoenix" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Has no function in the hands of a mere muggle" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sleepless Anchor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Beds are for losers" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"A Glutton's Meal" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"I see you have quite the appetite. Fatty." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wilson" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Don't worry Wilson, I'll do all the paddling. You just hang on" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Farmer's Badge" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"For the continued work you've put out there, take this reward!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Cowboy Hat" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Don't let it get shot off!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Earth" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Seven billion people on the planet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Now that sounds overpopulated" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Super Rod" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catches the best pokemon from the seas" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Potato Mine" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"SPUDOW!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Toilet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"WHERE'S THE EFFING HONEY LEBOWSKI?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Mobestiary" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Available at stores now" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Vanilla Ice Cream" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Life would be vanilla ice cream without 31 flavors of individuality" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Molten Ice Cream" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Noo! My ice cream! T_T" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hyperlink" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This advancement was sponsored by MCStacker" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Handsome Pumpkin" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This guy rushes me with a spoon... A freakin' spoon!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pink Camo Pants" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"They don't camouflage anywhere!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Walking Head" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Yes, this head totally has legs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sans's Head" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You start to hear distant MEGALOVANIA sounds" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ender Arrow" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This arrow ended an enderman. Seems impossible..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Boomer T-Shirt" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"There are no mistakes, just happy explosions" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Hylian Shield" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Should have spoken to the Keaton Mask Soldier" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"to get a discount at the Bazaar" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"1000-degree knife" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"(GONE WRONG) (NOT CLICKBAIT)" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Voyager 1" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Earth's farthest spacecraft" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cartographer's Quill" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Freshly not-smashed on the ground" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A blessing in love" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Face your fears and ask your crush out!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bouquet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"If you catch this at a wedding, you're next to get married" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Waterbed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Have a good night" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Dinnerbone's Head" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"No love for Grumm" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Jeb's Head" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Baah, Baah, Baah, Baah, Baah, Baah, Baah!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Groot's Stick" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"I am Groot" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Medal of Honor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"But didn't you start the raid yourself?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wall Street" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Yes, it's a wall" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ominous Shield" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This shield certifies your rank as a" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pillager of the Arch-Illager's forces" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stonk Man's Head" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"STONKS" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Your Cat's Prize" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You have so many cats, that now" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"phantoms have to sleep to avoid meeting you" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Quiver" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You can't actually store arrows in it" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Master Enchanter's Book" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Congratulations, you did it" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This document decrees you as a master enchanter" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Go see a doctor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Never gonna give you up" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Finger Guns" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"So anyway I started blasting..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Chaos Emerald" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Just gotta find six more" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Strider Treat" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Your strider deserved it" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Enchanter's Tome" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Used by Illager Enchanters to enchant mobs" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"World's Most Reliable Shoes" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The statistics tab shall no longer be the grindy super challenges tab" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Portable Trampoline" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hours of sick fun for the whole family!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Noah's Ark" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A deluge is imminent" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zero Tick Farm" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"RIP Zero Tick Farms" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"2013 - 2020" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Black Pearl" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Wherever we want to go, we'll go" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Superman's Cape" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Is it a bird?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Is it a plane?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Is it an egg salad sandwich?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"No way, it's a Charizard!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Flowey the Flower" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"All what's left of Asriel, the monsters' prince" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Firearm's Firearm" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Now how did this get here? Seriously?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Refreshment" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You'll need it after running that far" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gold Medal" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Probably not real gold" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Birthday Cake" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Happy birthday to you, happy birthday to you," : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"this song is copyrighted, oh wait actually it's public domain!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Piston Cup" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's just an empty cup" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Thomas the Tank Engine" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"He's number one" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+ 
+"Black Belt" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Who is the greatest man?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Farmer's Badge V2" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Farm some more they said, it'll be fun they said..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Spinny Top" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"If it falls over, it's not a dream" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stormbreaker" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"What kind of weapon are we talking about here?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The Thanos-killing kind" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Baconator" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Oh... wait, I thought you said Bacon!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Zork Chop" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Don't ask" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Unknown Mixture" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Side effects include possible stomach ache, 20/20 vision," : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"acne, extensive back pain and more..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stale Milk" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Please drink this" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fast and Furious" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Getting shot by this will make you fast and furious" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"This is Anarchy" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"If you want to survive you need a strong belly" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"TARS" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Everybody good? Plenty of slaves for my robot colony?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wizard's Fruit" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Utilised by the Mayor from Powerpuff Girls" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Portal Bow" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Portal II" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Moon Rock" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Looks like he brought some of the moon back" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smells like cheese" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ring of Bedrock" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The end of the End" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Singularity" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Newton’s third law - the only way humans have ever" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"figured out of getting somewhere is to leave something behind" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Cosmonaut Helmet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It was a Russian who was the first who could truly say this" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Astronaut Helmet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"In zero gravity, a feather and a hammer falls at the same speed" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dragon Bro" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dragon Broooo!!!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Power Stone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Maybe you should start a cool rock collection" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Heart of a Siren" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"No, not sirenhead!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Amphitrite" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Many people called her the personification of the sea itself..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Devil's Pitchfork" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"One Hell Of A Time" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Space Stone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This universe is finite, its resources, finite" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"If life is left unchecked, life will cease to exist" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It needs correcting" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Reality Stone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Reality can be whatever I want..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Eye of the Apocalypse" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The beginning of the end" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wishing Star" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make a wish!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Corrupted Beacon" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The Corrupted Beacon holds immense power within" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It waits for the moment to unleash its wrath" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Treasure Chest" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"One of each block is stored in there" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Frame of Infinite Items" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"One of each item is stored on here" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pandora's Box" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It is said to have contained all the evils in the world..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Doraemon's Pocket" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"I hope I can get thousands of diamonds in here" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Nuclear Reactor" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You have transcended humanity's progression" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mind Stone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The ability to give the mindless minds of their own" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Soul Stone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Did you do it?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Yes" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"What did it cost?" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"8 hours" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cursed Creeper Head" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Wave 5 of 5: CREEPER-GEDDON!!!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"ACDC - Back in Black" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Back in Black stomped Highway to Hell in terms of success" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Endfinity Source" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"They will END the world..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Potion Master's Diploma" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A certificate granting you the ability to teach" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"the subtle science and exact art of potion-making" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Poison Mask" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Protects your face from poison but not the rest of your body" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Infinity Gauntlet" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Iron Man stole all the stones so the best" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"you can do is punch people with it" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Totem of Immortality" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You'll be immortal as long as you don't die" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time Stone" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Perfectly balanced, as all things should be" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Instant Death" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Since you like dying so much..." : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+# Renamed advancements and description changes in 1.11.2
+"Craft or collect all forms of normal, cracked, mossy and chiseled stone bricks" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Swim in water while having the Water Breathing effect" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ride a Skeleton Horse" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Follow the Leader" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Barbearian" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Happy New Year!" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Play for a whole Minecraft year" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+## All advancements added in version 1.12 are here
+"Coppers and Robbers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Smelt a Copper Ingot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Budget Channeling": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a Lightning Rod using Copper Ingots": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Surge Protector": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Protect a villager from an undesired shock without starting a fire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Called Shot": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get struck by lightning while standing on a Lightning Rod": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Don’t Come a Copper!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft some Cut Copper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Copper Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of Raw Copper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Copper Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough copper to make a stack of Copper Blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wax On": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use Honeycombs to wax a Copper Block, preventing it from oxidising": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wax Off": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use an axe to scrape wax off of a Copper Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Statue of Liberty": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a fully oxidized Block of Copper": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sly Copper: The Copper Heist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Collect a stack of every oxidizing stage of Copper Block, Cut Copper, Cut Copper Slabs and Stairs, and the waxed variants of them all": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"G.I. Geode": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Find an Amethyst Geode and mine an Amethyst Cluster": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Good For Your Bones": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine some Calcite encasing an Amethyst Geode": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Galileo Figaro": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Zoom in on something using a Spyglass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pixel Perfect": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Spyglass to stare at a bat from at least 50 blocks away": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Blackout": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft Tinted Glass using Glass and Amethyst Shards and use it to block out light": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Amethyst Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of Amethyst Blocks, Amethyst Clusters, and every size of Amethyst Bud": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mr. Bean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine and craft a stack of Raw Iron, Copper and Gold Blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Filthy Lich": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use shears to obtain Glow Lichen from an underground cave": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"That's the point!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain some Pointed Dripstone from a Dripstone Cave": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Deep Slate Nine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine deep enough that the stone darkens": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tuff Stuff": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine some Tuff in the deep underground": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Moss Maker": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use Bone Meal on Moss to spread its wonderful lushness across hard blocks of stone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Iggy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain an Azalea": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Particle Fan": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a Spore Blossom": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lush Hour": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a stack of all lush-related blocks": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Shiny Treat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat some Glow Berries": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bulldozer": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Destroy a total of 10,000 blocks of stone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Strike a Light": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft Flint and Steel and use it to light the ground on fire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bonfire Night": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Light every flammable block on fire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Setting up the mood": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place a candle and light it using Flint and Steel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Ritual Begins": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get one stack of Black Candles": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# Happy Birthday!
+"Place a candle on a cake": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pane in the Glass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a stack of all 16 colors of stained glass panes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Tub": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sit in a cauldron filled with lava": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rock Polish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft every type of polished block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Deepslate Conspiracy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft all forms of Deepslate, Polished Deepslate, Deepslate Bricks and Deepslate Tiles": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Skyblock": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place a Grass Block high in the sky": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"One-course meal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use bone meal to grow a sapling into a tree": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Come to the countryside!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Plant every single type of crop on farmland": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"An Apple a Day": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat an Apple every day for 30 in-game days": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Goat out of here!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slaughter a Goat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Billy the Kid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two Goats together using Wheat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Goat Simulator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get killed by a Goat that rammed into you.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You have Goat to be kidding me!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Whatever Floats Your Goat!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get in a Boat and float with a Goat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Screaming Milk": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Milk a screaming Goat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cephalight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Glow Squid": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Glow and Behold": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Glow Ink Sac to light up a sign": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Flashy Items": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put an item up for display in a Glowing Item Frame": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Iceologer Should've Won": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill 100 Glow Squids": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Cutest Predator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch an Axolotl in a Bucket": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Healing Power of Friendship": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Team up with an Axolotl and win a fight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Thanks a lotl": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Team up with an Axolotl in an Ocean Monument to help clear the curse of the Elders": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Axolittle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Breed two Axolotls together using Tropical Fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Axolotl of them": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Catch all variants of Axolotls inside a Bucket": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Axeolotl": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill an Axolotl with an axe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Humble Bundle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft a Bundle using Rabbit Hide and String": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fractal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Put a Bundle in a Bundle in a Bundle in a Bundle in a Bundle… 16 layers deep": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Swine Sailing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride a saddled pig in a boat in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Llama Festival": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sit on Llamas with all 16 colors of carpet. Getting off will reset your progress": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Is it a Bird?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Look at a Parrot through a Spyglass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"So Hungry I Could Eat a Horse!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Feed a Horse every type of food that it can eat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Smooth Operator": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slip and slide on some ice": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"This Snow is Snowier": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fall into some Powder Snow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Light as a Rabbit": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Walk on Powder Snow… without sinking in it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Powder-full": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Pick up some Powder Snow in a Bucket": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Boatception": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get in a boat within a shipwreck": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pandamonium": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Feed cake to every type of panda": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Edge of the Jungle": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Enter a Modified Jungle Edge - the rarest biome in Minecraft": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"This Dirt is Dirtier": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for some Rooted Dirt from a Wandering Trader": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Leaflet Drop": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fall through a Big Dripleaf": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hey! You two should kiss!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Use a Spyglass to look at two Villagers sitting in a Boat from at least 50 blocks away": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rare Candy Shop": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade for a Bottle o’ Enchanting from a Cleric": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Buy Low, Sell High": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with a villager while under the Hero of the Village effect": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Justice": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill each type of Illager with a single crossbow arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Poultry Boy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Slay the elusive Chicken Jockey": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Basketblock Championship": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill Endermen that are holding every block that they can hold": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pupil Poppers": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eat 1000 Spider Eyes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"It's time consuming": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill something using a clock": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Inspector Gadget": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a zombie while holding a spyglass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Rock, Paper, Shears!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Beat a zombie at rock, paper, shears": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Backfire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Blaze using a Blaze Rod while both you and it are on fire": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Take Notes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Tune a Note Block through every possible note": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Noteworthy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Play every possible instrument on a Note Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Travelling Bard": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Play a Note Block in every type of biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Vibe Check": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Obtain a Sculk Sensor": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Over-Overkill": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Deal sixteen hearts of damage in a single melee blow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# The Haggler
+"Trade with villagers 100 times": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Big Spender": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with villagers 500 times": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"STONKS!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with villagers 2500 times": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Ancient Restoration": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Rebuild and reactivate a Ruined Portal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Spring": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sit in water in the Nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Polar Opposites": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Start freezing in the Nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Jenga": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ride a Strider riding another Strider riding a boat riding a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Is it a Balloon?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Look at a Ghast through a Spyglass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"A Piglin's Best Friend": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Give a total of 500 gold to Piglins during your nether adventures": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Instant Mining": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hold a Diamond or Netherite Pickaxe enchanted with Efficiency V while under the Haste II effect": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Beacon Overlord": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Acquire every beacon-induced effect at once": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Master Netherite Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine enough Ancient Debris to make a stack of Netherite Ingots (don’t worry, mining a stack of Netherite Blocks is optional in this datapack, I’m not that evil…)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Netherite Mad Lad": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Be an absolute madlad and grind enough Ancient Debris to make a stack of Netherite Blocks (this is hidden and not required for Advancement Legend btw…)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Gas Bomb": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ignite a Creeper of each possible effect using Flint and Steel": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"Is it a Plane?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Look at the Ender Dragon through a Spyglass": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Good Luck Getting This One": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a baby Turtle, a Witch, a Phantom, an Elder Guardian and a Piglin Brute with one piercing arrow in The End": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+"The Perfect Run": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Summon the Ender Dragon, the Wither, and a Raid within thirty seconds of each other, then defeat all of them without taking damage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Telescopic": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Look at every mob using a Spyglass, each from at least 25 blocks away": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# Renamed advancements and description changes in 1.12
+"Professional": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Reels!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Netherite Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stepping on Legos": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Walk on some hot Magma Blocks in the Nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mine a stack of Raw Iron": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mine a stack of Raw Gold": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Craft and ride a boat to sail on the high seas": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mine a stack of Netherrack, Basalt, Blackstone and Magma in the Nether": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Use a shovel to create dirt paths": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Deal eight hearts of damage in a single melee blow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# Hardcore-Friendly Version for 1.12 description changes
+"Get stung by a bee": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Get rammed into by a Goat.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Obtain a carved pumpkin enchanted with Curse of Binding. Be careful not to put it on!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# Trophies added in 1.12
+"Octuple Compressed Cobblestone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Just imagine how much cobblestone it contains…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Golden Cobblestone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Congratulations!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You mined 10,000 blocks of Cobblestone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"and unlocked the Golden Cobblestone Skin!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Weathered Copper BlocK": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It was spelt like this for six whole snapshots": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Copper Shortsword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The Moon Lord fears no weapon, but this one… it scares him": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Baseball Bat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"What?... Oh, when you said stare at a bat,": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"I thought you meant this bat!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Energy Crystal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Looks like a slimy slug sucked all the power out of it…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bean Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mmm, tasty": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Silver Armor Stand": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"To display your best armor set!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Annoying Orange": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hey apple, can you spit seeds?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mr Finch's Hoe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Did you at least harvest the sugar cane?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Compost Mate": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"There is ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"1 Composter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+" among us": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Black Bird": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"They should add Crows to Minecraft. Caw!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Fake Tropical Fish": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Not as beautiful, but much tastier": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Barry B. Benson's Hive": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"According to all known laws of aviation…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ice Wand": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The Ice Wand was trapped in a tomb of ice for ages,": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"sealed away by those who feared its power": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Llama Drama": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"In memoriam of the Great Spitting Massacre of 2021": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Matryoshka Doll": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"And they don't stop coming,": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"and they don't stop coming,": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"and they don't stop coming…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Basketblock": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"That's right Number 7, it's a cube!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Etho's Anvil": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Awarded to distinguished individuals who complete Etho’s challenge": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Multiweapon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's a sword, axe and…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Never mind, it broke": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bamboo Sword": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Not the best material for a weapon…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Jungle Book": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"In the jungle, the mighty jungle…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Moon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Yeah, it's just me, you, and the moon": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Salad Bowl": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Perfect for serving justice in": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Steam Engine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The beginning of the Industrial Revolution": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"New Year's Firework": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"It's the final countdown!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Big Pointy Arrow": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Things are on the up and up!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"One-Punch Man's Fist": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"ONE PUUUUUNNNCCHHH!!!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"(though in honesty killing everything in one punch": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"gets kinda boring after awhile…)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gilded Blade": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A powerful weapon wielded by ancient mobs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Brick Astley": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Nether gonna brick you up!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ultimate Flex": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dab on dem haters": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Wormhole": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Is this some kind of portal?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Aaah!..": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Mario's Hat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mario, number one! Yahoo!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# 'Experience' label in Experience Rewards text
+"Experience" : "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# Text that appears when unlocking a new tab
+"You have unlocked the root of the Adventure tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Animals tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Biomes tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Building tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Super Challenges tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"WARNING: These are very difficult": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Enchanting tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the End tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Farming tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Mining tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Monsters tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Nether tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Potions tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Redstone tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Statistics tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"You have unlocked the root of the Weaponry tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# Welcome message
+"This world is using ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Blaze": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"and": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cave": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"'s Advancements Pack!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+" Over ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+## Number is inserted here
+"975 brand new advancements in your Minecraft world!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+" - Created by ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+## Cavinator1
+
+" - For information ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"click here": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+" - Join my discord ": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"here": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Special thanks to my patreon donors": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+## Patreon Donors' names are listed here
+
+
+
+
+# Configuration Menu
+## BlazeandCave
+"'s Advancements Pack Config": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Welcome Message currently enabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Welcome Message currently disabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Item Rewards currently enabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Item Rewards currently disabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Experience Rewards currently enabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Experience Rewards currently disabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Trophies currently enabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trophies currently disabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Display scoreboard on tab list": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Clear scoreboard from tab list": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Display scoreboard on sidebar": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Clear scoreboard from sidebar": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Update scoreboard": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Grant trophies": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Click to enable": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to disable": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to run": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# Update scoreboard message
+"The advancement count of all players currently online has been updated.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# Grant trophies are you sure message
+"Are you sure?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This function should only be used in worlds that used the Advancements Pack before updating to the Trophy Update.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"This function may also grossly fill inventories so make sure everyone is prepared to receive them!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"[ Yes ]": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to confirm": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"[ No ]": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to go back": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# Grant trophies confirmation message
+"All players have been granted trophies.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Players that have been granted trophies by this function in the past did not receive any now. To manually re-enable trophy granting for them use the command:": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to insert command into chat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+
+# All advancements added in version 1.13 are here
+
+"Dripstone Drop": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Survive a fall of at least 10 blocks onto some Pointed Dripstone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lucky Break": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Survive a long fall with just a sliver of health remaining": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Caves & Cliffs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Free fall from the top of the world (build limit) to the bottom of the world and survive": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Bottom to Top": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place every cave block at the very top of the world": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"A Good Start": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Chop down enough trees to collect a full stack of one log type": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Squid Game": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hunt enough Squids to collect a stack of Ink Sacs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Blackberry Market": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade some sweet berries to a Fox with an emerald in their mouth": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"We’re Going on a Bear Hunt": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get hunted by a Polar Bear": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dive Bomb": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dive into water from a cliff at least 50 blocks tall": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Captain America": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get completely frozen inside two blocks of Powder Snow for a loooong time.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Big question is: Can you do this all day?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Map Room": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place a map in an item frame": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Sound the Alarm!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ring the bell with a hostile enemy in the village": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Sound of Music": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Make the Meadows come alive with the sound of music from a jukebox": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Click!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place and push a button": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Leveraging Synergy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Flick a lever": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"On A Rail": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Travel by Minecart in a straight line to at least 1 km from where you started": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Baron of Blacksmiths": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Get a stack of regular, chipped and damaged Anvils": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"65": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"hours of walking": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Walk 1000km. The statistics tab shall no longer be the grindy super challenges tab": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Feels Like Home": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Take a Strider for a loooong ride on a lava lake in the Overworld": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Gilded Miner": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Mine a stack of Gilded Blackstone from Bastion Remnants": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Astrobrute": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Send a Piglin Brute to the End and kill it there before it zombifies": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ludicrous Speed!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Achieve an absolutely insane speed by combining the Speed II effect, Dolphin’s Grace, Depth Strider III, Soul Speed III and sprinting": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Stealth Takedown": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Dispatch a Creeper at melee range while you are invisible": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Dogfight": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Kill a Skeleton or Stray while both you and it have levitation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Riddle Me This": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The first is to smith a compass that vanishes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The second is to slay a corpse that fishes": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The third is to travel on an upside-down mount": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The fourth is to take a temple tripwire into account": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The fifth is to be invisible yet be visible everywhere": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The sixth is to return the product of a fowl in mid-air": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The seventh is to allow a child to commit the act of stealing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The eighth is to smite a Wither with splash healing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The ninth is to be a pirate; parrot, spyglass, map, and boat": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The tenth, if you can achieve it, you will be the G.O.A.T.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# Riddle Me This messages and hints
+
+"First line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Second line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Third line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fourth line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Fifth line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sixth line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Seventh line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Eighth line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Ninth line complete…": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Tenth Parchment": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Place Warped Buttons to number a thousand": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"For this was the thousandth item added to the game": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Like how this is the thousandth advancement added to the pack": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# Renamed advancements and description changes in 1.13
+
+"All Aboard!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Craft and board a Minecart for railway journeys": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Star Trader": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trade with a villager at the build height limit": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"High Feet": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Discover every mountain biome": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Natural Sprinter": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Sprint 10km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Lichen Subscribe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Atlantis?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Ahoy!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Foliage": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"How Did We Get Here?": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# Description changes
+
+## Adventuring Time
+"Discover every surface biome in the Overworld": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Explorer of Worlds
+"Discover every biome in every dimension": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Trampoline
+"Bounce onto a slime block from at least 30 blocks high": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Cool Kids
+"Craft and wear a leather jacket": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Fashion Statement
+"Dye some leather pants with one color, then put them on": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Fuel Engine
+"Craft a Minecart with Furnace and use coal or charcoal to send it chugging": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Troll Chest
+"Trigger a trapped chest. Good for trolling your friends!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Tripping Over
+"Place a line of string between two tripwire hooks, and trigger it": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Under Pressure
+"Step on a pressure plate": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Let It Go!
+"Using Frost Walker boots, walk on frozen water over a deep ocean": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Do A Barrel Roll!
+"Use Riptide to give yourself a boost": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Kilometre Walk
+"Travel at least 1000 blocks from the centre of the world in any direction.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Ten Thousand Blocks
+"Travel at least 10,000 blocks from the centre of the world in any direction.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Olympic Gold Medallist
+"Swim 50km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Global Railway Network
+"Ride 50km in a minecart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Who needs cars?
+"Walk 50km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## I enjoy long walks and playing MC
+"Walk 250km": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+## Time to Chop!
+"Use planks and sticks to make an axe": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# Custom Advancement Completion messages
+# # Has the syntax "<Player> has made the advancement <Advancement's name>"
+"%1$s has made the advancement %2$s%3$s%4$s": "%1$s отримав досягнення %2$s%3$s%4$s",
+"%1$s has reached the goal %2$s%3$s%4$s": "%1$s виконав мету %2$s%3$s%4$s",
+"%1$s has completed the challenge %2$s%3$s%4$s": "%1$s виконав випробування %2$s%3$s%4$s",
+"%1$s has completed the super challenge %2$s%3$s%4$s": "%1$s виконав супер виклик %2$s%3$s%4$s",
+"%1$s has found the hidden advancement %2$s%3$s%4$s": "%1$s отримав приховане досягнення %2$s%3$s%4$s",
+
+# # # There are 5 %1$s's here for the advancement "65 Hours of Walking"
+"%1$s has found the hidden advancement %2$s%3$s%4$s%5$s%6$s": "%1$s отримав приховане досягнення %2$s%3$s%4$s%5$s%6$s",
+
+# # "For milestones, it goes <Player> has completed every advancement in the <Tab name> tab, earning them the advancement <Milestone's name>"
+"%1$s has completed every advancement in the %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s завершив всі досягнення в %2$s, заробляючи досягнення %3$s%4$s%5$s",
+
+# # # Note: Because The End already has a 'the' in it, this line is exclusively used in "End Milestone"
+"%1$s has completed every advancement in %2$s tab, earning them the advancement %3$s%4$s%5$s": "%1$s завершив кожне просування у %2$s, заробляючи досягнення %3$s%4$s%5$s",
+
+# # Advancement Legend
+"%1$s has completed every advancement in BlazeandCave's Advancements Pack, earning them the coveted title of %2$s%3$s%4$s": "%1$s завершив(ла) всі досягнення в BlazeandCave's Advancements Pack, що принесло йому бажаний титул. %2$s%3$s%4$s",
+
+
+
+# Trophies added in 1.13
+
+"Azalea Parachute": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Good thing you didn't need this": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Pyro's Mask": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"One shudders to imagine what inhuman thoughts lie behind that mask": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Deepslate Emerald Ore": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A rare specimen of emeralds embedded in the deepest of caves": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Flex Tape": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"To show the power of Flex Tape, you sawed all the blocks in half!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"#NotSponsored": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stairway to Heaven": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Whatever you do, don't listen to it backwards!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hot Potato": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Whooo, wiggy wiggy wiggy": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Gimme that, gimme that, hoo": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Captain America's Shield": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Unfortunately there are no circles in Minecraft,": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"meaning this shield is not very aerodynamic for throwing": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Harp String": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Playing so much must be wearing out your strings...": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Here! Have an extra.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Roller Coaster Cart": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Hey Ferb, I know what we're gonna do today!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Time Machine": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"You'll need it to get back all those hours you spent": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Plaid Block": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"They've gone to plaid!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Stink Bomb": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"P.U!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Amalgamation": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The sheer gravitational forces of killing these mobs": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"appears to have morphed them all together": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Hubble Space Telescope": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"A telescope orbiting in outer space,": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"it can see to infinity and beyond": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Golden Advancement Plaque": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Awarded to this datapack for reaching 1000 advancements": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# # The Toilet trophy for 'WHERE'S THE HONEY LEBOWSKI' received a description change
+
+"WHERE'S THE HONEY?!!!": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+# Configuration menu additions in 1.13
+
+"Cooperative Mode currently enabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Cooperative Mode currently disabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Cooperative Mode makes it so that whenever a player gets an advancement, that advancement will be shared across all players.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Everyone's currently-obtained advancements will be shared between all players immediately when turning this setting on.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"While the mode can be turned off, shared advancements cannot be easily revoked.": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+
+"Click to enable for all players": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to enable only for the first player to get an advancement": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to disable for all players": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# The syntax for these text strings is e.g. 'Item Rewards All players'
+
+"Item Rewards:": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Experience Rewards:": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Trophies:": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"All players": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"First player only": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Disabled": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Advancement Completion Message Settings": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Advancement Scoreboard Display Settings": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Click to view": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Display Advancements Scoreboard on tab list": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Display First Advancements Scoreboard on tab list": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Display Advancements Scoreboard on sidebar": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Display First Advancements Scoreboard on sidebar": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"The Advancements Scoreboard keeps track of how many advancements each player has obtained": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"The First Advancements Scoreboard keeps track of how many advancements each player was the first to obtain": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to display": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Click to clear": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+# The syntax for these text strings is e.g. 'Task Advancements All players'
+
+"Task": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Goal": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Challenge": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Super Challenges": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Milestone": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Advancements:": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+
+"Turn all messages on": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Turn all messages off": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Set all messages to first-player only (recommended and default for Cooperative Mode)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Turn all on except tasks (recommended for large servers)": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+"Turn all on except tasks and goals": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Click to set": "Іди нахуй кацап! СЛАВА УКРАЇНІ!",
+
+"Go back to main config menu": "Іди нахуй кацап! СЛАВА УКРАЇНІ!"
+
+
+
+
+# All advancements and trophies that get added in versions 1.14 or later will be added down here for easy locating by translators who wish to update their language file
+}
