@@ -1,1 +1,1 @@
-# borykva_resuorcepack
+# borykva_resourcepack
