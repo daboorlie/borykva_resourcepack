@@ -1,1 +1,2 @@
-# borykva_resourcepack
+# borykva resourcepack
+Ресурспак цебулевого серверу!
