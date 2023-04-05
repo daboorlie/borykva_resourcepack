@@ -1,2 +1,2 @@
-# borykva resourcepack
+# BORUKVA MINECRAFT SERVER
 Ресурспак цебулевого серверу!
