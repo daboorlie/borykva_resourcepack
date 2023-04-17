@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by daboorlie",
 	"textures": {
-		"0": "custom/brewerly/bonaqua_cola_cap",
-		"2": "custom/brewerly/bonaqua_cola_liquid",
-		"3": "custom/brewerly/bonaqua_cola_paper",
-		"4": "custom/brewerly/bonaqua_cola_glass",
-		"particle": "custom/brewerly/bonaqua_cola_cap"
+		"0": "./bonaqua_cola_cap",
+		"2": "./bonaqua_cola_liquid",
+		"3": "./bonaqua_cola_paper",
+		"4": "./bonaqua_cola_glass",
+		"particle": "./bonaqua_cola_cap"
 	},
 	"elements": [
 		{
@@ -343,6 +343,10 @@
 		},
 		"ground": {
 			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [25, -30, 15],
+			"translation": [0, 0.5, 0]
 		},
 		"head": {
 			"translation": [0, 13, 0]
