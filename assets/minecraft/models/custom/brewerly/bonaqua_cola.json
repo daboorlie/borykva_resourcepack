@@ -5,7 +5,7 @@
 		"2": "custom/brewerly/bonaqua_cola_liquid",
 		"3": "custom/brewerly/bonaqua_cola_paper",
 		"4": "custom/brewerly/bonaqua_cola_glass",
-		"particle": "./bonaqua_cola_cap"
+		"particle": "custom/brewerly/bonaqua_cola_cap"
 	},
 	"elements": [
 		{
